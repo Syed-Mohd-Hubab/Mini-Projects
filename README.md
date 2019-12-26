@@ -8,3 +8,5 @@ Features:
 	Details checking
 	View customers list
 	Exit
+Format used in filing:
+[Customer ID] [Name] [Age] [Sex] [Cell No.] [Balance]
