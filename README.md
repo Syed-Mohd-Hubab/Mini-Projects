@@ -7,9 +7,10 @@ Was helpful in understanding the basic functionality about how a code works.
 - Transactions
 -	Details checking
 -	View customers list
-- Exit\
+- Exit
+
 ```
-Format used in filing: \ 
+Format used in filing:  
 
 [*Customer ID*] [*Name*] [*Age*] [*Sex*] [*Cell No.*] [*Balance*]
 ```
