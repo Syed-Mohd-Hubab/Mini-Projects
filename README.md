@@ -8,7 +8,8 @@ Was helpful in understanding the basic functionality about how a code works.
 -	Details checking
 -	View customers list
 - Exit\
-`
-Format used in filing:\
+```
+Format used in filing: \ 
+
 [*Customer ID*] [*Name*] [*Age*] [*Sex*] [*Cell No.*] [*Balance*]
-`
+```
